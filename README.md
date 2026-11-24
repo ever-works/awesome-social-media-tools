@@ -39,6 +39,8 @@ A curated directory of social media scheduling, publishing, listening and analyt
 - [Publer](https://publer.io/) - Publer is a social media scheduling tool that allows users to create, organize, and publish posts across multiple networks. It includes features for bulk scheduling, recycling content, and basic analytics. ([Read more](/details/publer.md)) `Freemium` `Free Plan` `API` `Scheduling`
 - [SocialBee](https://socialbee.io/) - SocialBee is a social media management tool focused on content categorization and scheduling. It helps users recycle evergreen content and manage posting schedules for multiple profiles from one dashboard. ([Read more](/details/socialbee.md)) `Paid` `API` `Scheduling`
 - [SocialPilot](https://socialpilot.co/) - SocialPilot is a social media scheduling and marketing tool for small teams and agencies. It supports bulk scheduling, content curation, and social inbox management across major networks. ([Read more](/details/socialpilot.md)) `Paid` `Agency` `API` `Scheduling`
+- - [Social Media Bot](https://www.pelock.com/products/social-media-bot) - Schedule automatic likes/reposts/follows/bookmarking, highly customizable Chrome/Firefox/Edge browser extension, localized in 45 languages, built-in statistics. ([Read more](/details/socialmediabot.md)) `Paid` `Agency` `API` `Scheduling`
+
 
 ## Social Analytics
 
